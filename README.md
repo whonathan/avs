@@ -1,2 +1,2 @@
-# evsa
-Effortless Virtualization setup for Arch
+# vsa
+Effortless Arch Virtualization Setup
